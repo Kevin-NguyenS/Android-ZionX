@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18498577696",
+    "project_id": "zionx-ba406",
+    "storage_bucket": "zionx-ba406.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18498577696:android:732dc744a7f3f58e566345",
+        "android_client_info": {
+          "package_name": "com.example.zion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFSwPcO6VcRYWbV76oEbGAjFnvNxa0_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
