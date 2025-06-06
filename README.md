@@ -1,4 +1,4 @@
-# 📱 Android Chat Application with Map Integration
+# 📱 ZionX - Android Chat Application with Map Integration
 
 Một ứng dụng nhắn tin thời gian thực sử dụng Firebase, Google Maps API:
 
